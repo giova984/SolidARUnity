@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 02ca714188acaef4888b74840614e057
+timeCreated: 1471033972
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blurShader: {fileID: 4800000, guid: d7d52bcfdbb955d48a6ab245c3859544, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

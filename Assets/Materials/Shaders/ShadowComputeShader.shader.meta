@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57d595033ca58604b9e265bd0af838a6
+timeCreated: 1474494096
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _HoloDepthTextureL: {fileID: 8400000, guid: 3784693cdb752ae47a04e50ce7dd03bb,
+      type: 2}
+  - _HoloDepthTextureR: {fileID: 8400000, guid: 69d0d5a831fb4da4aa2ba290b5a45d64,
+      type: 2}
+  - _ProjShadowMap: {fileID: 8400000, guid: 2e96f525836c8364d8169f06dbc3c552, type: 2}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
